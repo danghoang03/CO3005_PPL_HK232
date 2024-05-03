@@ -1,0 +1,2 @@
+number arr[5] <- a
+        

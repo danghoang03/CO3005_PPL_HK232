@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x), NumberType, None, None), FuncDecl(Id(main), [], Block([Block([Block([AssignStmt(Id(x), NumLit(1.0))]), Block([Return(BooleanLit(True))]), Return(BooleanLit(False))]), Block([]), Return(BooleanLit(True))]))])

@@ -1,0 +1,18 @@
+
+        func main() begin ## This is comment
+        end
+        func main() 
+            begin 
+                ## This is comment
+            end
+        func main()
+            ## comment1
+            begin
+                ## comment2
+                ## comment3
+                number a <- 1 + 2 + fun()
+                number arr[1+a] <- 1
+                ## comment4
+            end
+            ## This is comment
+        

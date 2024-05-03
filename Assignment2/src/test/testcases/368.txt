@@ -1,0 +1,11 @@
+
+        number a
+        func main()
+            begin
+            for i until i >= 10 by 1
+                ## This is comment
+                
+                a <- a + 1
+            ## This is comment
+            end
+        

@@ -1,0 +1,9 @@
+
+            var a <- 2 > 3
+            var b <- "hello" >= "hi"
+            var c <- "hello" < 5
+            var d <- 12 <= 10
+            var e <- "string" == "hello"
+            var f <- 3 = 4
+            var g <- 1 >= 2 ... 1 > 2
+        

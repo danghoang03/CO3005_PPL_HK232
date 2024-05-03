@@ -1,0 +1,5 @@
+ 
+            var a <- 6
+            number b 
+            dynamic c
+        

@@ -1,0 +1,9 @@
+
+            func findMax(number a, number b)
+            begin
+            if (a < b)
+                return b
+            else
+                return a
+            end
+        

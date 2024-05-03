@@ -1,0 +1,28 @@
+
+        number a
+        func main()
+            begin   
+                if(true) a <- 1
+                ## This is comment
+                
+                if(true) 
+                    ## This is comment
+                    a <- 1
+                    ## This is comment
+                else a <- 2
+                ## This is comment
+                
+                if (1) a <- 1
+                elif (1 < 2)
+                    ## This is comment
+                    
+                    a <- 2
+                    ## This is comment
+                elif (1 > 2) a <- 3
+                
+                if (1) a<- 1
+                elif (1 ... 2) a <- 1
+                elif (2) a <- 1
+                else a <- 3   
+            end
+        

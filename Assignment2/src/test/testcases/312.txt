@@ -1,0 +1,5 @@
+ 
+            func main()
+            ## This is comment
+            func foo(number a) ## This is comment
+        

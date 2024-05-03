@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), None, var, BinaryOp(or, BinaryOp(and, Id(x), Id(y)), Id(z))), VarDecl(Id(b), None, var, BinaryOp(or, BinaryOp(or, Id(x), Id(y)), Id(z)))])

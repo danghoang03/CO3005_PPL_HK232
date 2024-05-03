@@ -1,0 +1,10 @@
+
+        ## This is comment
+        func main()
+            ## This is comment
+            begin
+            aPI <- 3.14
+            end
+            ## This is comment
+        ## This is comment
+        

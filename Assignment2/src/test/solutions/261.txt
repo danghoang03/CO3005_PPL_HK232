@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([AssignStmt(Id(aPI), NumLit(3.14))]))])

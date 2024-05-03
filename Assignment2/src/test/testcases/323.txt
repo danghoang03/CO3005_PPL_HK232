@@ -1,0 +1,6 @@
+ 
+            func main(number a[1,2,3]) ##This is comment
+            begin
+                number a <- 1 + 2
+            end
+        

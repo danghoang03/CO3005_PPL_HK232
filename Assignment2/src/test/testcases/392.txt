@@ -1,0 +1,6 @@
+    
+        func a()
+        begin
+            number arr[1,2] <- 5
+        end
+        

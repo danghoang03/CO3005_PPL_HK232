@@ -1,0 +1,22 @@
+
+        func a()
+        begin
+        end
+        
+        func b()
+        begin
+
+            number x <- 1
+            
+        end
+        
+        func c()
+        begin 
+        end
+        func d() begin 
+        end
+        func e() begin 
+        end
+        func f() begin ## This is comment
+        end
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(findMax), [VarDecl(Id(a), NumberType, None, None), VarDecl(Id(b), NumberType, None, None)], Block([If((BinaryOp(<, NumLit(0.0), BinaryOp(<, Id(a), Id(b))), Return(Id(b))), [], Return(Id(a)))]))])

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(concatString), [VarDecl(Id(a), StringType, None, None), VarDecl(Id(b), StringType, None, None), VarDecl(Id(c), StringType, None, None)], Return(BinaryOp(..., Id(a), Id(b))))])

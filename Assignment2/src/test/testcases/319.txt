@@ -1,0 +1,3 @@
+ 
+            func main(number a , bool b, string s)
+        

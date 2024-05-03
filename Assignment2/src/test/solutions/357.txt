@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x), None, var, ArrayCell(CallExpr(Id(func1), [Id(a), BinaryOp(..., ArrayCell(Id(arr), [NumLit(2.0), NumLit(3.0)]), StringLit(hello))]), [NumLit(1.0)])), VarDecl(Id(y), None, var, BinaryOp(<, BinaryOp(and, BinaryOp(+, BinaryOp(..., Id(str1), Id(str2)), Id(b)), BinaryOp(>=, Id(a), Id(b))), ArrayCell(Id(arr), [NumLit(1.0), ArrayCell(Id(b), [NumLit(1.0)])])))])

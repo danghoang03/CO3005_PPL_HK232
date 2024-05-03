@@ -1,0 +1,7 @@
+ 
+            func main()
+            func main(number a[2],bool b[1,2,3], bool c[1,2,3], string s, bool d)
+            func main(number num1, number num2)
+                var t <- 1
+            func main(number y)
+        

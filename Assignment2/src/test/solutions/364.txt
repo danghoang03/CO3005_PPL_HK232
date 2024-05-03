@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([CallStmt(Id(a), [NumLit(2.0)])]))])

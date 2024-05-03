@@ -1,0 +1,17 @@
+ 
+            number a
+            
+            ## This is comment
+            number b <- 0
+            bool arr1[1,2]
+            bool arr2[1,2] <- 1 + 1 / 2 * 3
+            string c[3]
+            ## This is comment
+            
+            string d[5] <- 2 ... " tring"
+            var x <- 0
+            dynamic y
+            dynamic z <- 0
+            ## This is comment
+             
+        

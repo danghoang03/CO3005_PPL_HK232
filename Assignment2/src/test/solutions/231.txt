@@ -1,0 +1,1 @@
+Program([VarDecl(Id(str), None, var, BinaryOp(..., StringLit(Hai), StringLit(Dang)))])

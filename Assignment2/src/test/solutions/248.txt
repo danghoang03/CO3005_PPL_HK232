@@ -1,0 +1,1 @@
+Program([VarDecl(Id(VoTien), None, var, UnaryOp(-, UnaryOp(not, NumLit(1.0))))])

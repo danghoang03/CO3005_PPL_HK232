@@ -1,0 +1,14 @@
+ 
+            ##This is comment
+            func main(number a) 
+                ##This is comment
+                
+                begin 
+                    break
+                end
+                
+                ##This is comment
+                ##This is comment
+            func main(number a)
+            ##This is comment        
+        
