@@ -1,0 +1,13 @@
+
+            func f()
+            begin
+                dynamic x
+                x <- [[1, 2, 3], [4, 5, 6]]
+                return x[0, 0]
+            end
+
+            func main()
+            begin
+                number x <- f()
+            end
+        

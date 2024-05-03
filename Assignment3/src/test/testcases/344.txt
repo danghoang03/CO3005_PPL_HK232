@@ -1,0 +1,4 @@
+ 
+            var a <- x and y and z
+            var b <- x == y or y + 1
+        

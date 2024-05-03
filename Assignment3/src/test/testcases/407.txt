@@ -1,0 +1,16 @@
+
+            func f(number x)
+
+            dynamic x <- f(2) + 1
+
+            func f(number y)
+            begin
+                if (y <= 1) return 1
+                return y * f(y - 1)
+            end
+
+            func main()
+            begin
+                return 2
+            end
+        

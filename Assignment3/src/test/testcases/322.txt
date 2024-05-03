@@ -1,0 +1,7 @@
+ 
+            func main(string a) 
+                begin 
+                    break ## This is comment
+                end
+            func main(number a) 
+        

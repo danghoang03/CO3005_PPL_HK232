@@ -1,0 +1,9 @@
+
+            func main()
+            begin
+                dynamic x
+                if (x) writeString("x is infer to true value")
+                else writeString("x is infer to false value")
+                x <- not (true and not false) and not (false and not true)
+            end
+        

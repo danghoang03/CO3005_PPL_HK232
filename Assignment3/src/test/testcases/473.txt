@@ -1,0 +1,32 @@
+
+            func main() begin 
+                number i
+                for i until true by 1
+                begin
+                    break
+                    continue
+                    begin
+                        break
+                        continue
+                    end
+                    break
+                    continue
+                    for i until true by 1
+                    begin
+                        for i until true by 1
+                        begin
+                            break
+                            continue
+                        end
+                        break
+                        continue
+                    end
+                        break
+                        continue
+                    begin
+                        break
+                        continue
+                    end
+                end
+            end
+        

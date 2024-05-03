@@ -1,0 +1,8 @@
+
+            func a()
+                return 1
+            func main(number k, number j) begin 
+                var c <- a()
+                var d <- b()
+            end
+        

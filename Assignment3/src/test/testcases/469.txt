@@ -1,0 +1,7 @@
+
+            dynamic a
+            func main()
+            begin
+                var i <- a[2] ... 2.75
+            end
+        

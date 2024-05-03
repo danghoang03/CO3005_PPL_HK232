@@ -1,0 +1,8 @@
+
+            func main()
+            begin
+                dynamic x <- [1, 2, 3]
+                dynamic a <- x
+                writeNumber(a[0])
+            end
+        

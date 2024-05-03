@@ -1,0 +1,7 @@
+
+            func a(number a) begin 
+            end
+            func a(string c)
+            func main() begin 
+            end
+        

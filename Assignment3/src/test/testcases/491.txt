@@ -1,0 +1,12 @@
+
+            func main() begin 
+                string i
+                dynamic j
+                
+                if (true) return
+                elif (true) return
+                elif (i) return
+                elif (false) return
+                else return
+            end
+        

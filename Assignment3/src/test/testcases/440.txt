@@ -1,0 +1,7 @@
+
+            func f()
+            begin
+                dynamic x
+                x <- (x - 2) * (x + true)
+            end
+        

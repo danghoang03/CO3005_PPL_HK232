@@ -1,0 +1,9 @@
+
+            func main()
+            begin
+                var x <- [10, 20, 40]
+                var y <- [true, false, true]
+                number a[2, 3] <- [x, y]
+                writeNumber(a[0, 0])
+            end
+        

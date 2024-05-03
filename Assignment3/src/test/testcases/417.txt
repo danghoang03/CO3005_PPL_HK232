@@ -1,0 +1,15 @@
+
+            func findMax(number x[10], number n)
+            begin
+                if (n = 1) return x[0]
+                number k <- findMax(x, n - 1)
+                if (k >= x[n]) return k
+                return x[n]
+            end
+
+            func main()
+            begin
+                dynamic x <- [3, 4, 0, 1, 2, 7, 9, 8, 5, 6]
+                writeNumber(findMax(x, 10))
+            end
+        

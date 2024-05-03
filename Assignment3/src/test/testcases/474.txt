@@ -1,0 +1,9 @@
+
+            func main()
+            begin
+                dynamic a
+                dynamic b
+                dynamic c
+                var arr <- [[a, 1], [b, true], [c, "Hello"]]
+            end
+        

@@ -1,0 +1,4 @@
+ 
+            var x <- func1(a,arr[2,3] ... "hello")[1]
+            var y <- (str1 ... str2) + b and (a >= b) < arr[1, b[1]]
+        

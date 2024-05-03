@@ -1,0 +1,6 @@
+
+            func main() begin
+                dynamic x
+                x <- (x=1) or ("abc" == "abc")
+            end
+        

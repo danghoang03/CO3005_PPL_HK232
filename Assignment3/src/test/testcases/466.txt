@@ -1,0 +1,11 @@
+
+            func f(number n)
+
+            func main()
+            begin
+                var i <- f(2, 3)
+            end
+
+            func f(number a)
+                return a
+        

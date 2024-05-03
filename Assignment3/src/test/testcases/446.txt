@@ -1,0 +1,11 @@
+
+            func f(number x)
+            begin
+                return f(x)
+            end
+
+            func main()
+            begin
+                dynamic d <- f(10)
+            end
+        

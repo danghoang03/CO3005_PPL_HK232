@@ -1,0 +1,5 @@
+
+            dynamic x
+            number a[2,2] <- [[x], [[x]]]
+            func main() return
+        

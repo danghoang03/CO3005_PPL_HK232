@@ -1,0 +1,11 @@
+
+            func main()
+
+            func main()
+
+            func main()
+            begin
+                if (1) writeBool(true)
+                else writeBool(false)
+            end
+        

@@ -1,0 +1,9 @@
+
+            func main()
+            begin
+                dynamic a
+                dynamic b
+                number arr[2, 2] <- [[a, b]]
+                number c[2, 2] <- arr
+            end
+        

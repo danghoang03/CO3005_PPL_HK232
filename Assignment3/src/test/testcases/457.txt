@@ -1,0 +1,8 @@
+
+            func main()
+            begin
+                dynamic x <- "Hello"
+                if (x == "Hello") writeString(x)
+                else writeString("Something weird!")
+            end
+        

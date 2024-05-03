@@ -1,0 +1,14 @@
+
+            func a(number a, number c[3])
+            func main() begin 
+            end
+            func a(number a, number c[3]) begin
+                number e
+                begin
+                    number a
+                    number e
+                    number k
+                    string k
+                end
+            end
+        

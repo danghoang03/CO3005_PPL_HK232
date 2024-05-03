@@ -1,0 +1,13 @@
+
+            func f(number x[2, 3])
+    
+            func main()
+            begin
+                dynamic a
+                number x[2, 3] <- f(a)
+                a[0] <- [1, 2, 3]
+            end
+
+            func f(number x[2, 3])
+                return x
+        

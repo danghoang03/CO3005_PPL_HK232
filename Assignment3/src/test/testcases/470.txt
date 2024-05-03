@@ -1,0 +1,7 @@
+
+            func main()
+            begin
+                if (1) writeBool(true)
+                else writeBool(false)
+            end
+        

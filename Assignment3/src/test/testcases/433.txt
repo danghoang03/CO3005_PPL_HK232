@@ -1,0 +1,12 @@
+
+            func main()
+            begin
+                dynamic a
+                dynamic b
+                dynamic c
+                number x[2, 2] <- [a, [b, 2]]
+                a <- 2
+                b <- 3
+                c <- true
+            end
+        

@@ -1,0 +1,10 @@
+
+            func f(number x)
+
+            dynamic x <- f(2) + 1
+
+            func main()
+            begin
+                return
+            end
+        

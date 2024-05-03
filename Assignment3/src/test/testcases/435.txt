@@ -1,0 +1,12 @@
+
+            func main()
+            begin
+                dynamic a
+                dynamic b
+                dynamic c
+                dynamic x <- [readNumber(), a, b, c]
+                a <- 3
+                b <- x[0]
+                c <- a + b
+            end
+        

@@ -1,0 +1,11 @@
+
+            func f(number x)
+            begin
+                return 1
+            end
+
+            func main()
+            begin
+                 f(2024)
+            end
+        

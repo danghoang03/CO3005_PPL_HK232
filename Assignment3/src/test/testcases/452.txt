@@ -1,0 +1,12 @@
+
+            func add(number x, number y)
+
+            func main()
+            begin
+                dynamic a
+                a[0] <- [1, 2, 3]
+            end
+
+            func add(number x, number y)
+                return "Hello"
+        

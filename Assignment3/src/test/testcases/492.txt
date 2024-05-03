@@ -1,0 +1,11 @@
+
+            func main() begin 
+                number i
+                dynamic j
+                
+                if (true) return
+                elif (false) return
+                elif (j) return
+                else return
+            end
+        
