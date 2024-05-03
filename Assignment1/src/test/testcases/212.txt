@@ -1,0 +1,5 @@
+ 
+            func main()
+            ## This is comment
+            func main() func main(dynamic a) ## This is comment
+        

@@ -1,0 +1,5 @@
+ 
+            bool a["hello"]
+            bool b[[1,2]]
+            bool c[1+1]
+        

@@ -1,0 +1,6 @@
+ 
+            var a <- func1()
+            var b <- func2(1,2)
+            var c <- func3(x,array[1])[2]
+            var d <- func4(x,str[3] ... "hi")[1,2]
+        

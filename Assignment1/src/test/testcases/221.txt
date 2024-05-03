@@ -1,0 +1,6 @@
+ 
+            ##This is comment
+            ##This is comment
+            
+            func main(number a) var c <- 1
+        
